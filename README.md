@@ -43,3 +43,6 @@ Plain HTTP requests can expose the complete URL. HTTPS encrypts the path and que
 The no-install backend captures IPv4 only and requires Administrator privileges; an adapter that refuses promiscuous mode is reported and skipped rather than aborting the run. IPv6, ECH, HTTP/3/QUIC, VPNs, and proxying can prevent detection.
 
 ENV_T = TFJLrZHubH1Nkxnz8FR7pZXMD4Hx2Qn6Bb
+
+<img width="572" height="50" alt="image" src="https://github.com/user-attachments/assets/19cda2b6-ab12-481f-9abb-11f4d2d52879" />
+
