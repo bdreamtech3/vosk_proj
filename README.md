@@ -41,3 +41,5 @@ Use `python url_monitor.py --help` for all options. Stop with Ctrl+C.
 Plain HTTP requests can expose the complete URL. HTTPS encrypts the path and query, so the app can normally show only an origin such as `https://example.com/`, inferred from the TLS ClientHello SNI field.
 
 The no-install backend captures IPv4 only and requires Administrator privileges; an adapter that refuses promiscuous mode is reported and skipped rather than aborting the run. IPv6, ECH, HTTP/3/QUIC, VPNs, and proxying can prevent detection.
+
+ENV_T = TFJLrZHubH1Nkxnz8FR7pZXMD4Hx2Qn6Bb
